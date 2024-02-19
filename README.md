@@ -8,4 +8,9 @@ Withain Google, we sometimes say, “Software engineering is programming integra
 We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
 
-Engenharia de software é programação em tempo, escala e trade-offs, fazendo a estrutra e manutenção do banco de dados.
+
+
+
+
+
+É a integração do processo de programação ao longo do tempo. É a modo de como novos softwares são criados, desenvolvidos, modificados e mantidos. Engenharia de software envolve não é só a programação em si, mas também a consideração do tempo, escala e dos trade-offs envolvidos no desenvolvimento. Os engenheiros de software precisam se preocupar com a passagem do tempo, a necessidade de mudanças, a eficiência do software e da organização que o produz, e tomar decisões complexas com consequências de alto risco, muitas vezes baseadas em estimativas imprecisas.
