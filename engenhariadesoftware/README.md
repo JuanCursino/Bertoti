@@ -1,4 +1,4 @@
-# Bertoti
+# Atividade 1
 
 Withain Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software : engineering after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomesnsion to programming. Cubes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, mmimaintenance). The addition of time adds an important new dimeension to programming.
 
@@ -14,3 +14,12 @@ We see three critical differences between programming and software engineering: 
 
 
 É a integração do processo de programação ao longo do tempo. É a modo de como novos softwares são criados, desenvolvidos, modificados e mantidos. Engenharia de software envolve não é só a programação em si, mas também a consideração do tempo, escala e dos trade-offs envolvidos no desenvolvimento. Os engenheiros de software precisam se preocupar com a passagem do tempo, a necessidade de mudanças, a eficiência do software e da organização que o produz, e tomar decisões complexas com consequências de alto risco, muitas vezes baseadas em estimativas imprecisas.
+
+
+# Atividade 2
+
+
+
+
+
+# Atividade 3
