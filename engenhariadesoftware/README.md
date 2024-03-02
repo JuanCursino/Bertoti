@@ -23,3 +23,14 @@ We see three critical differences between programming and software engineering: 
 
 
 # Atividade 3
+
+https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tuk4U/edit#slide=id.g1f2b4e971a0_0_139
+
+Slides da atividade
+
+ -24 Pequenos web sites
+ -25 Sites de empresa
+ -26 Hardware
+ -27 Redes socias? 
+ -28
+ -29 Redes socias? 
