@@ -12,7 +12,7 @@ We see three critical differences between programming and software engineering: 
 
 
 
-# Atividade 2
+# Atividade 2 
 
 - 1 Escolher entre gastar dinheiro em um jantar chique ou economizar para uma viagem futura.
 - 2 Decidir entre ficar em casa estudando para uma prova importante ou sair com os amigos para se divertir.
@@ -20,11 +20,11 @@ We see three critical differences between programming and software engineering: 
 
 
 
-# Atividade 3
+# Atividade 3 👍
 
 https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tuk4U/edit#slide=id.g1f2b4e971a0_0_139
 
-## Slides da atividade
+## Slides da atividade :+1:
 
 **24 Pequenos web sites:**
  Eu sugeri pequenos web sites, pois como ele tem uma alta simplicidade, e a tolerância falha é baixa, acaba por sugerir que não é algo que tenha usuários frequentes, assim resultando num banco de dados pouco estruturado.
@@ -37,15 +37,15 @@ https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tu
 
  - Overall cost:⭐⭐⭐⭐⭐
  - Fault tolerance:⭐
- 
+
  **26 Sistema operacional:**
- Estrutura microcare para sistema operacional
+ Estrutura microcare para sistema operacional.
  
  - Overall cost:⭐⭐⭐⭐⭐
  - Scability:⭐
 
 **27 Software de serviço:**
-Estrutura para software de serviço não especificado
+Estrutura para software de serviço não especificado.
   
  - Reliability:⭐⭐⭐⭐
  - Elasticity:⭐⭐
