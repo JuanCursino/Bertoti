@@ -57,8 +57,8 @@ Estrutura para pix, ou outros softwares de serviços monetários.
  - Simplicity:⭐
 
  
-#### 29 Serviço Nuvem:
-Tem uma escabilidade alta, podendo ser possível vários usuários manusear, entretanto com sua simplicidade alta deixa isso difícil. 
+**29 Serviço Nuvem:**
+ Tem uma escabilidade alta, podendo ser possível vários usuários manusear, entretanto com sua simplicidade alta deixa isso difícil. 
 
  - Scalability:⭐⭐⭐⭐⭐
  - Simplicity:⭐
