@@ -32,32 +32,33 @@ https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tu
  - Simplicity:⭐⭐⭐⭐⭐
  - Fault tolerance:⭐
  
-**25 Aplicativos de vendas ou streaming:**
- Por seu custo alto, estrutura simples, e com tolerância falha baixa, eu penso ser adequado para algum site de empresa no qual a manuntenção seja rápida para manter operando o maior tem possível sem falhas, sendo de fácil acesso para usuários.
+**25 Segurança de dados:**
+ Por sua estrutura simples, revela-se que a cada clique as informações do usuário irão ficar protegidas e criptografas.
 
  - Overall cost:⭐⭐⭐⭐⭐
  - Fault tolerance:⭐
  
- **26 Hardware:**
+ **26 Sistema operacional:**
+ Estrutura microcare para sistema operacional
  
  - Overall cost:⭐⭐⭐⭐⭐
  - Scability:⭐
 
-
-**27 Redes socias?:**
- 
- 
+**27 Software de serviço:**
+Estrutura para software de serviço não especificado
+  
  - Reliability:⭐⭐⭐⭐
  - Elasticity:⭐⭐
 
-**28 Hardware:**
- Tendo uma alta performace e escabilidade, sendo muito complexo por ser de baixa simplicidade, receio que a estrutura refere-se alguma espécie de hardware.
+**28 Pix:**
+Estrutura para pix, ou outros softwares de serviços monetários.
 
- - Performance:⭐⭐⭐⭐⭐
+ - Scalability:⭐⭐⭐⭐⭐
  - Simplicity:⭐
 
  
 #### 29 Serviço Nuvem:
+Tem uma escabilidade alta, podendo ser possível vários usuários manusear, entretanto com sua simplicidade alta deixa isso difícil. 
 
  - Scalability:⭐⭐⭐⭐⭐
  - Simplicity:⭐
