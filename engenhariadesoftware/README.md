@@ -64,3 +64,91 @@ Estrutura para pix, ou outros softwares de serviços monetários.
  - Simplicity:⭐
 
 
+
+# Atividade 4
+
+**Loja de livros**
+
+ - Simplicity:⭐⭐⭐⭐⭐
+ - Overall cost:⭐⭐⭐⭐⭐
+ - Performace:⭐
+ - Scability:⭐
+
+
+
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+
+public class CompraDelivros { 
+   private List<String> produtos; private Map<String, Integer> carrinho;
+}
+
+public CompraDelivros() {
+    this.produtos = new ArrayList<>();
+    this.produtos.add("O Pequeno Príncipe");
+    this.produtos.add("Dom Quixote");
+    this.produtos.add("A arte da guerra");
+    this.produtos.add("Cem Anos de Solidão");
+    
+    this.carrinho = new HashMap<>();
+}
+
+public class CompraDelivros {
+
+    public static void main(String[] args) {
+        List<String> produtos = new ArrayList<>();
+        produtos.add("O Pequeno Príncipe");
+        produtos.add("Dom Quixote");
+        produtos.add("A arte da guerra");
+        produtos.add("Cem Anos de Solidão");
+
+        Map<String, Integer> carrinho = new HashMap<>();
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Lista de produtos disponíveis:");
+        for (int i = 0; i < produtos.size(); i++) {
+            System.out.println((i + 1) + ". " + produtos.get(i));
+        }
+
+        String continuar = "S";
+        while (continuar.equalsIgnoreCase("S")) {
+            System.out.print("Selecione o número do produto que deseja adicionar ao carrinho: ");
+            int escolha = scanner.nextInt();
+
+            if (escolha >= 1 && escolha <= produtos.size()) {
+                String produtoSelecionado = produtos.get(escolha - 1);
+                if (carrinho.containsKey(produtoSelecionado)) {
+                    carrinho.put(produtoSelecionado, carrinho.get(produtoSelecionado) + 1);
+                } else {
+                    carrinho.put(produtoSelecionado, 1);
+                }
+            } else {
+                System.out.println("Opção inválida.");
+            }
+
+            System.out.print("Deseja continuar comprando? (S/N) ");
+            continuar = scanner.next();
+        }
+
+        System.out.println("Livros selecionados:");
+        double total = 0;
+        for (String produto : carrinho.keySet()) {
+            int quantidade = carrinho.get(produto);
+            double precoUnitario = 10.0; // Preço unitário fictício
+            double precoTotal = quantidade * precoUnitario;
+            total += precoTotal;
+            System.out.println(produto + " - Quantidade: " + quantidade + " - Preço Total: R$" + precoTotal);
+        }
+
+        System.out.println("Total da compra: R$" + total);
+
+        scanner.close();
+    }
+}
+//requer maior reivsão e detalhamento
+
