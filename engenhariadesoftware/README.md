@@ -110,14 +110,14 @@ public class CompraDelivros {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Lista de produtos disponíveis:");
+        System.out.println("Lista de livros disponíveis:");
         for (int i = 0; i < produtos.size(); i++) {
             System.out.println((i + 1) + ". " + produtos.get(i));
         }
 
         String continuar = "S";
         while (continuar.equalsIgnoreCase("S")) {
-            System.out.print("Selecione o número do produto que deseja adicionar ao carrinho: ");
+            System.out.print("Selecione o número do livro que deseja adicionar ao carrinho: ");
             int escolha = scanner.nextInt();
 
             if (escolha >= 1 && escolha <= produtos.size()) {
