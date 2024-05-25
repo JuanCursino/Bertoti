@@ -14,9 +14,9 @@ We see three critical differences between programming and software engineering: 
 
 # Atividade 2 
 
-- 1 Escolher entre gastar dinheiro em um jantar chique ou economizar para uma viagem futura.
-- 2 Decidir entre ficar em casa estudando para uma prova importante ou sair com os amigos para se divertir.
-- 3 Optar por trabalhar horas extras para receber um aumento no salário ou passar mais tempo com a família e amigos.
+- 1 Escolher entre gastar dinheiro no tigrinho ou economizar para uma viagem futura.
+- 2 Decidir entre estudar para prova de LP1 ou jogar com os amigos.
+- 3 Decidir trabalhar mais para receber um aumento no salário ou passar mais tempo com a família.
 
 
 
@@ -68,17 +68,14 @@ Estrutura para pix, ou outros softwares de serviços monetários.
 # Atividade 4
 
 **Loja de celulares**
-
+Layered Architecture Style/Arquitetura em Camadas
  - Simplicity:⭐⭐⭐⭐⭐
  - Overall cost:⭐⭐⭐⭐⭐
  - Performace:⭐
  - Scability:⭐
 
+# Atividade 5, 6 e 7
 
-        System.out.println("Total da compra: R$" + total);
+Estão no código!
 
-        scanner.close();
-    }
-}
-//requer maior reivsão e detalhamento
 
