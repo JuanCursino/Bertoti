@@ -69,6 +69,7 @@ Estrutura para pix, ou outros softwares de serviços monetários.
 
 **Loja de celulares**
 Layered Architecture Style/Arquitetura em Camadas
+Por ser mais simples de entender o funcionamento.
  - Simplicity:⭐⭐⭐⭐⭐
  - Overall cost:⭐⭐⭐⭐⭐
  - Performace:⭐
