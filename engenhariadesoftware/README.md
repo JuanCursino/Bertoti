@@ -38,7 +38,7 @@ https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tu
  - Overall cost:⭐⭐⭐⭐⭐
  - Fault tolerance:⭐
 
- **26 Sistema operacional:LINUX**
+ **26 Sistema operacional: Ex:LINUX**
  Estrutura microcare para sistema operacional.
  
  - Overall cost:⭐⭐⭐⭐⭐
