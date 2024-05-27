@@ -14,7 +14,7 @@ We see three critical differences between programming and software engineering: 
 
 # Atividade 2 
 
-- 1 Escolher entre gastar dinheiro no tigrinho ou economizar para uma viagem futura.
+- 1 Escolher entre gastar dinheiro em um jogo lançamento ou economizar para uma viagem futura.
 - 2 Decidir entre estudar para prova de LP1 ou jogar com os amigos.
 - 3 Decidir trabalhar mais para receber um aumento no salário ou passar mais tempo com a família.
 
