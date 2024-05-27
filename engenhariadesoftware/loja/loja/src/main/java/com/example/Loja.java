@@ -9,7 +9,7 @@ public class Loja {
 public List<Celular> celulares = new LinkedList<>();
 public List<Tablet> tablets = new LinkedList<>();
 
-    // Cadastrando Itens
+    
 public void cadastrarCelular(String nomeCelular, String marcaCelular, double precoCelular, int qntdCelular) {
     Celular celular = new Celular(nomeCelular, marcaCelular, precoCelular, qntdCelular);
     celulares.add(celular);
@@ -21,7 +21,7 @@ public boolean cadastrarTablet(String nomeTablet, String marcaTablet, double pre
     return true;
 }
 
-    // Metodo Buscar Celular
+   
 public Celular buscarCelular(String nomeCelular) {
     for(Celular celular : celulares){
         if (celular.getnomeCelular().equalsIgnoreCase(nomeCelular)){
@@ -33,7 +33,7 @@ public Celular buscarCelular(String nomeCelular) {
     return null;
 }
 
-    // Metodo Buscar Tablet
+    
 public Tablet buscarTablet(String nomeTablet){
     for(Tablet tablet : tablets){
         if (tablet.getnomeTablet().equalsIgnoreCase(nomeTablet)) {
