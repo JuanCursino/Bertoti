@@ -32,19 +32,19 @@ https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tu
  - Simplicity:⭐⭐⭐⭐⭐
  - Fault tolerance:⭐
  
-**25 Segurança de dados:**
+**25 Segurança de dados: Ex:Firewall**
  Por sua estrutura simples, revela-se que a cada clique as informações do usuário irão ficar protegidas e criptografas.
 
  - Overall cost:⭐⭐⭐⭐⭐
  - Fault tolerance:⭐
 
- **26 Sistema operacional:**
+ **26 Sistema operacional:LINUX**
  Estrutura microcare para sistema operacional.
  
  - Overall cost:⭐⭐⭐⭐⭐
  - Scability:⭐
 
-**27 Software de serviço:**
+**27 Software de serviço: Ex:Netflix/Office**
 Estrutura para software de serviço não especificado.
   
  - Reliability:⭐⭐⭐⭐
@@ -57,7 +57,7 @@ Estrutura para pix, ou outros softwares de serviços monetários.
  - Simplicity:⭐
 
  
-**29 Serviço Nuvem:**
+**29 Serviço Nuvem: Ex:AWS**
  Tem uma escabilidade alta, podendo ser possível vários usuários manusear, entretanto com sua simplicidade alta deixa isso difícil. 
 
  - Scalability:⭐⭐⭐⭐⭐
