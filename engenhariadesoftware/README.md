@@ -20,19 +20,19 @@ Trade-offs: São decisões difíceis que os engenheiros de software precisam tom
 
 # Atividade 2 
 
-1. Java
+1.Java
 
 Vantagens: Java é uma linguagem de programação orientada a objetos que fornece forte segurança e portabilidade de código. Rode em qualquer sistema operacional que possua uma máquina virtual Java. Possui uma vasta comunidade de desenvolvedores e uma ampla gama de bibliotecas e frameworks disponíveis. Java é uma linguagem compilada, o que pode resultar em melhor performance em aplicações de alta demanda de processamento.
 
 Desvantagens: Java pode ser mais difícil de aprender do que linguagens como Python, devido à sua sintaxe mais complexa e aos conceitos de programação orientada a objetos. O processo de compilação em Java pode ser mais demorado do que em linguagens interpretadas, o que pode afetar a produtividade. Além disso, a tipagem estática em Java pode resultar em mais linhas de código para realizar tarefas simples.
 
-2. C++
+2.C++
 
 Vantagens: C++ é uma linguagem de programação de alto desempenho, amplamente utilizada em aplicações que exigem controle direto sobre o hardware. É uma linguagem compilada que oferece um alto nível de controle sobre a memória e recursos do sistema. C++ é conhecido por sua eficiência e velocidade, sendo amplamente utilizado em aplicações como jogos e sistemas de tempo real.
 
 Desvantagens: C++ pode ser mais complexo e difícil de aprender do que outras linguagens de programação devido à sua sintaxe e conceitos avançados. O gerenciamento manual de memória em C++ pode levar a erros de alocação e vazamento de memória, o que pode ser difícil de depurar. Além disso, a falta de uma biblioteca padrão abrangente em C++ pode exigir a utilização de bibliotecas externas para tarefas comuns.
 
-3. Ruby
+3.Ruby
 
 Vantagens: Ruby é uma linguagem de programação dinâmica e de fácil aprendizado, com uma sintaxe elegante e expressiva. Possui uma ampla variedade de frameworks populares, como Ruby on Rails, que aceleram o desenvolvimento de aplicações web. Ruby é uma linguagem interpretada, o que torna o desenvolvimento e teste mais rápidos. Além disso, Ruby promove a filosofia de programação orientada a objetos e permite a escrita de código limpo e modular.
 
@@ -46,34 +46,34 @@ https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tu
 
 ## Slides da atividade :+1:
 
-- 25 Segurança de dados (Ex: Firewall):
-Simplicity: ⭐⭐⭐⭐⭐
+**25 Segurança de dados (Ex: Firewall):**
+- Simplicity: ⭐⭐⭐⭐⭐
 A estrutura simples sugere que as informações do usuário serão protegidas e criptografadas a cada interação.
-Fault tolerance: ⭐
+- Fault tolerance: ⭐
 A baixa tolerância a falhas pode ser uma preocupação em termos de segurança dos dados, pois pode não haver muitos mecanismos para lidar com falhas.
 
-- 26 Sistema operacional (Ex: LINUX):
-Overall cost: ⭐⭐⭐⭐⭐
+**26 Sistema operacional (Ex: LINUX):**
+- Overall cost: ⭐⭐⭐⭐⭐
 Estrutura microcare para sistema operacional pode resultar em baixos custos gerais.
-Fault tolerance: ⭐
+- Fault tolerance: ⭐
 A baixa tolerância a falhas pode ser uma desvantagem, especialmente em ambientes críticos.
 
-- 27 Software de serviço (Ex: Netflix/Office):
-Reliability: ⭐⭐⭐⭐
+**27 Software de serviço (Ex: Netflix/Office):**
+- Reliability: ⭐⭐⭐⭐
 Espera-se um bom nível de confiabilidade, especialmente em serviços como Netflix ou Office.
-Elasticity: ⭐⭐
+- Elasticity: ⭐⭐
 A capacidade de se adaptar a variações de demanda pode não ser tão alta, mas ainda é considerável.
 
-- 28 Pix (ou outros serviços monetários):
-Scalability: ⭐⭐⭐⭐⭐
+**28 Pix (ou outros serviços monetários):**
+- Scalability: ⭐⭐⭐⭐⭐
 A estrutura é altamente escalável, especialmente importante para serviços financeiros.
-Simplicity: ⭐
+- Simplicity: ⭐
 Pode ser menos simples devido aos rigorosos requisitos de segurança e conformidade.
 
-- 29 Serviço de Nuvem (Ex: AWS):
-Scalability: ⭐⭐⭐⭐⭐
+**29 Serviço de Nuvem (Ex: AWS):**
+- Scalability: ⭐⭐⭐⭐⭐
 Alta escalabilidade é uma característica essencial de serviços de nuvem como AWS.
-Simplicity: ⭐
+- Simplicity: ⭐
 Embora seja altamente escalável, a complexidade pode dificultar o uso para usuários inexperientes.
 
 
@@ -82,13 +82,13 @@ Embora seja altamente escalável, a complexidade pode dificultar o uso para usu�
 **Loja de celulares**
 - Layered Architecture Style (Arquitetura em Camadas):
 
-Simplicity (Simplicidade): ⭐⭐⭐⭐⭐
+- Simplicity (Simplicidade): ⭐⭐⭐⭐⭐
 A Arquitetura em Camadas é conhecida por sua simplicidade de compreensão e implementação, o que a torna ideal para muitos casos de uso.
-Overall cost (Custo geral): ⭐⭐⭐⭐⭐
+- Overall cost (Custo geral): ⭐⭐⭐⭐⭐
 Geralmente, a implementação e manutenção de uma arquitetura em camadas são mais econômicas, pois é menos complexa e mais fácil de gerenciar.
-Performance (Desempenho): ⭐
+- Performance (Desempenho): ⭐
 Em termos de desempenho, a Arquitetura em Camadas pode não ser a mais otimizada, pois cada solicitação deve passar por várias camadas, o que pode adicionar latência.
-Scalability (Escalabilidade): ⭐
+- Scalability (Escalabilidade): ⭐
 A escalabilidade da Arquitetura em Camadas pode ser limitada, especialmente se não for projetada com escalabilidade em mente desde o início.
 
 # Atividade 5, 6 e 7
