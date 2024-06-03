@@ -10,7 +10,7 @@ We see three critical differences between programming and software engineering: 
 
 - É a integração do processo de programação ao longo do tempo. É a modo de como novos softwares são criados, desenvolvidos, modificados e mantidos. Engenharia de software envolve não é só a programação em si, mas também a consideração do tempo, escala e dos trade-offs envolvidos no desenvolvimento. Os engenheiros de software precisam se preocupar com a passagem do tempo, a necessidade de mudanças, a eficiência do software e da organização que o produz, e tomar decisões complexas com consequências de alto risco, muitas vezes baseadas em estimativas imprecisas.
 
-- Escala: Refere-se à capacidade do software de expandir-se conforme a demanda, tanto em termos de usuários quanto de funcionalidades. Um software escalável é capaz de crescer sem comprometer o desempenho, podendo lidar com um aumento significativo no número de usuários e na quantidade de dados. Por exemplo, um site de comércio eletrônico deve ser capaz de suportar milhões de usuários e produtos sem afetar a velocidade ou a qualidade da experiência do usuário.
+Escala: Refere-se à capacidade do software de expandir-se conforme a demanda, tanto em termos de usuários quanto de funcionalidades. Um software escalável é capaz de crescer sem comprometer o desempenho, podendo lidar com um aumento significativo no número de usuários e na quantidade de dados. Por exemplo, um site de comércio eletrônico deve ser capaz de suportar milhões de usuários e produtos sem afetar a velocidade ou a qualidade da experiência do usuário.
 
 Tempo: Inclui diversos aspectos, como o tempo necessário para desenvolver o software, a rapidez com que ele responde às solicitações dos usuários e o tempo dedicado à manutenção após o lançamento. Gerenciar eficientemente o tempo de desenvolvimento e manutenção é essencial para garantir que o software seja entregue no prazo e mantenha sua eficácia ao longo do tempo.
 
@@ -46,31 +46,31 @@ https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tu
 
 ## Slides da atividade :+1:
 
-25 Segurança de dados (Ex: Firewall):
+- 25 Segurança de dados (Ex: Firewall):
 Simplicity: ⭐⭐⭐⭐⭐
 A estrutura simples sugere que as informações do usuário serão protegidas e criptografadas a cada interação.
 Fault tolerance: ⭐
 A baixa tolerância a falhas pode ser uma preocupação em termos de segurança dos dados, pois pode não haver muitos mecanismos para lidar com falhas.
 
-26 Sistema operacional (Ex: LINUX):
+- 26 Sistema operacional (Ex: LINUX):
 Overall cost: ⭐⭐⭐⭐⭐
 Estrutura microcare para sistema operacional pode resultar em baixos custos gerais.
 Fault tolerance: ⭐
 A baixa tolerância a falhas pode ser uma desvantagem, especialmente em ambientes críticos.
 
-27 Software de serviço (Ex: Netflix/Office):
+- 27 Software de serviço (Ex: Netflix/Office):
 Reliability: ⭐⭐⭐⭐
 Espera-se um bom nível de confiabilidade, especialmente em serviços como Netflix ou Office.
 Elasticity: ⭐⭐
 A capacidade de se adaptar a variações de demanda pode não ser tão alta, mas ainda é considerável.
 
-28 Pix (ou outros serviços monetários):
+- 28 Pix (ou outros serviços monetários):
 Scalability: ⭐⭐⭐⭐⭐
 A estrutura é altamente escalável, especialmente importante para serviços financeiros.
 Simplicity: ⭐
 Pode ser menos simples devido aos rigorosos requisitos de segurança e conformidade.
 
-29 Serviço de Nuvem (Ex: AWS):
+- 29 Serviço de Nuvem (Ex: AWS):
 Scalability: ⭐⭐⭐⭐⭐
 Alta escalabilidade é uma característica essencial de serviços de nuvem como AWS.
 Simplicity: ⭐
@@ -80,7 +80,7 @@ Embora seja altamente escalável, a complexidade pode dificultar o uso para usu�
 # Atividade 4
 
 **Loja de celulares**
-Layered Architecture Style (Arquitetura em Camadas):
+- Layered Architecture Style (Arquitetura em Camadas):
 
 Simplicity (Simplicidade): ⭐⭐⭐⭐⭐
 A Arquitetura em Camadas é conhecida por sua simplicidade de compreensão e implementação, o que a torna ideal para muitos casos de uso.
