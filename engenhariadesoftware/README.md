@@ -99,5 +99,4 @@ Estão no código!
 
 
 
-Arrumar atividade 1, 2,3 e 5
-Deixa mais detalhadado as 3 primeiras, e mudar pra seta no segundo
+
