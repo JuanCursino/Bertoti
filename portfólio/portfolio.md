@@ -21,7 +21,7 @@
 
 <div align="center">
 
-#### API:
+#### API para a VISIONA ESPACIAL:
 
 [GeoHood](https://github.com/FatecCoderHood/4_GeoHood) - Este projeto envolve o uso de <strong>tecnologias geoespaciais</strong> para a gestão e visualização de fazendas, com suporte a <strong>GeoJSON</strong> e a implementação de funcionalidades como mapeamento e análise de dados geográficos.
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-#### API:
+#### API para a GSW:
 
 [NewsHub](https://github.com/FatecCoderHood/GSW_API) - Sistema para captura e armazenamento de <strong>notícias estratégicas</strong> e dados relevantes associados, desenvolvido em <strong>Spring Boot</strong>.
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-#### API:
+#### API para a FATEC:
 
 [Zeus](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC) - Gerenciador de dados climáticos a partir de arquivos <strong>CSV</strong>.
 
