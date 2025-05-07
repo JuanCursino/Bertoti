@@ -17,7 +17,7 @@
 ---
 
 
-<h2 align="center">📅 Quarto Semestre</h2>
+<h2 align="center">🚀 GeoHood – Inteligência Geoespacial para o Agronegócio</h2>
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-<h2 align="center">📅 Terceiro Semestre</h2>
+<h2 align="center">📢 NewsHub – Central de Notícias Estratégicas</h2>
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 ---
 
-<h2 align="center">📅 Segundo Semestre</h2>
+<h2 align="center">☁️ Zeus – Plataforma para Análise Climática</h2>
 
 <div align="center">
 
